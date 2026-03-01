@@ -1,0 +1,1 @@
+model=torch.load("E:\CV\Mask-dection\mask pehen.pth")
